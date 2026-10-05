@@ -1,0 +1,19 @@
+# Snapshots & AI logs
+.snapshots/
+*.log
+scratch/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
