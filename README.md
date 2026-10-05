@@ -1,0 +1,2 @@
+# Fit_Coach_Plugin
+Gpt_Plugin_Fit_Coach
