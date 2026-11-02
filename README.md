@@ -148,29 +148,11 @@ Fit_Coach thiết lập lằn ranh đỏ đạo đức và nghiệp vụ, không
 
 ---
 
-## 🚀 Hướng dẫn Cài đặt & Triển khai
+## 🚀 Cài đặt đa nền tảng (review preview)
 
-### 1. Dùng trên OpenAI ChatGPT (Custom GPT)
-1. Tạo một Custom GPT mới trên OpenAI ChatGPT.
-2. Tại phần **Instructions**, dán nội dung từ [`fit-coach-sid/skills/fit-coach/SKILL.md`](fit-coach-sid/skills/fit-coach/SKILL.md).
-3. Tại mục **Knowledge Files**, tải lên 4 tệp trong thư mục [`fit-coach-sid/skills/fit-coach/references/`](fit-coach-sid/skills/fit-coach/references/):
-   - `master-instruction.md`
-   - `fitness-theory-ontology.md`
-   - `fitness-protocols.md`
-   - `case-benchmark.md`
-4. Cấu hình các đoạn gợi ý câu hỏi (Conversation Starters) từ `plugin.json`.
+Tải [`fit-coach-sid-portable-v0.2.0-review.zip`](release-candidates/fit-coach-sid-portable-v0.2.0-review.zip) và làm theo [hướng dẫn nhập GPT, Claude, Gemini](release-candidates/portable-preview-2026-11-02/README_IMPORT.md). Mỗi nền tảng cần cách nhập riêng; đây là gói instructions/knowledge/skill, không phải plugin thực thi dùng chung một nút cài.
 
-### 2. Dùng trên Agentic IDE (Cursor / Windsurf / Antigravity)
-- Thư mục `.agents/skills/` hoặc cấu hình Agent Plugins trực tiếp nhận diện thư mục `fit-coach-sid/`.
-- Entry point `SKILL.md` sẽ tự động liên kết tương đối đến 4 tệp kiến thức tại `references/` mà không đòi hỏi thêm API key bên ngoài.
-
-### 3. Dùng trên Claude Projects (Anthropic)
-- Tạo một Project mới mang tên **Fit_Coach SID**.
-- Đưa toàn bộ nội dung của `master-instruction.md` vào phần **Project Instructions**.
-- Tải 3 tệp còn lại (`fitness-theory-ontology.md`, `fitness-protocols.md`, `case-benchmark.md`) vào phần **Project Knowledge**.
-
----
-
+**Trạng thái:** preview để xem xét, chưa được chuyên gia thể lực/y tế/dinh dưỡng duyệt; chưa kiểm tra nhập trực tiếp trên từng host; chưa chạy benchmark hoặc pilot. Các claim số học nhập từ nguồn cũ vẫn chưa xác thực. Xem [build receipt](release-candidates/portable-preview-2026-11-02/BUILD_RECEIPT.md) và [giới hạn sẵn sàng](release-candidates/portable-preview-2026-11-02/README_IMPORT.md).
 ## ⚖️ Tuyên bố Miễn trừ Trách nhiệm Y tế (Medical Disclaimer)
 
 > **LƯU Ý QUAN TRỌNG**: Fit_Coach SID là hệ thống hỗ trợ giáo dục thể chất, thiết kế giáo án kháng lực và tối ưu hóa lối sống lành mạnh dựa trên khoa học vận động. Fit_Coach **KHÔNG PHẢI** là bác sĩ y khoa, chuyên gia vật lý trị liệu hay cơ sở y tế. Các hướng dẫn không thay thế cho việc thăm khám lâm sàng, chẩn đoán bệnh học, điều trị hoặc phác đồ phục hồi chức năng của nhân viên y tế có chứng chỉ hành nghề. Hãy luôn lắng nghe cơ thể và tham vấn ý kiến bác sĩ chuyên khoa trước khi bắt đầu bất kỳ chế độ tập luyện hay can thiệp dinh dưỡng mới nào.
