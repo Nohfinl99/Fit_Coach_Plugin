@@ -1,0 +1,97 @@
+{
+  "kind": "READ_ONLY_SOURCE_BASELINE",
+  "recorded_date_local": "2026-11-02",
+  "repository": "https://github.com/Nohfinl99/Fit_Coach_Plugin",
+  "remote_mutations": 0,
+  "checkout": {
+    "method": "git clone --depth 1",
+    "workspace_path": "scratch/fit-coach-source-baseline-2026-11-02",
+    "remote": "https://github.com/Nohfinl99/Fit_Coach_Plugin.git",
+    "branch": "main",
+    "head": "06f7558b327068c414d252528741d0918e141cbc",
+    "origin_main": "06f7558b327068c414d252528741d0918e141cbc",
+    "commit_date": "2026-10-05T21:51:12+07:00",
+    "commit_subject": "feat: setup Fit_Coach SID Plugin v0.1.3-rc1 architecture, 4 canonical layers, and documentation",
+    "working_tree": "clean"
+  },
+  "remote_head_observation": {
+    "method": "GitHub browser, /commits/main, read-only",
+    "observed_head": "06f7558b327068c414d252528741d0918e141cbc",
+    "matches_clone": true,
+    "note": "git ls-remote failed once with a local DNS thread-start error; no retry. Browser commit history and clone origin/main agreed."
+  },
+  "repository_instructions": {
+    "AGENTS_md_present": false,
+    "search_scope": "complete cloned repository tree",
+    "note": "No repository AGENTS.md exists in the 8-blob tree; absence is not a blocker."
+  },
+  "tree": [
+    {
+      "path": ".gitignore",
+      "git_blob": "ce32ce71d7e906331dbad3c306c92f54bed6d918",
+      "bytes": 184,
+      "sha256_blob": "C9801BA94E3F522A9DD89F52E63F6CDAB5C099C0AC478B3B3C0F8040FBAD31C1"
+    },
+    {
+      "path": "README.md",
+      "git_blob": "0688c96a9a9b11da0d89e8be5d3e561748e1c7f8",
+      "bytes": 14591,
+      "sha256_blob": "2BB2FDD4AA3FD746A12F9352A1D421841ABE272905EE90BE0B0958E5831C686A"
+    },
+    {
+      "path": "fit-coach-sid/plugin.json",
+      "git_blob": "3c239cac7536f108da532c90a013e9fd0b91bfbd",
+      "bytes": 1411,
+      "sha256_blob": "9EF3CCC24C2A423355FA6703E96A6D3E8C5E370D94C1479FC579B50806F2F6A4"
+    },
+    {
+      "path": "fit-coach-sid/skills/fit-coach/SKILL.md",
+      "git_blob": "fa7d4b0f1842aee39a68c5c1d1b5559a29986e7a",
+      "bytes": 4496,
+      "sha256_blob": "940846FF4344F430C8BD5AD2B109E7D8B90CCE26B9AEFFB8DC96C51E4C47B959"
+    },
+    {
+      "path": "fit-coach-sid/skills/fit-coach/references/case-benchmark.md",
+      "git_blob": "0b84f6ebac8f63712e2fbd59ad467687b3787b6e",
+      "bytes": 39280,
+      "sha256_blob": "E802756920009F401D039384461096A5141EA94AE48280F880B069F956129D9C"
+    },
+    {
+      "path": "fit-coach-sid/skills/fit-coach/references/fitness-protocols.md",
+      "git_blob": "3a52021a9976b25b6758324a2c8757111d47cada",
+      "bytes": 89937,
+      "sha256_blob": "09CE7328A82BFE33A8B80F6475356EEA8A3B87872CABD7DA355FC3A6B45C8ACC"
+    },
+    {
+      "path": "fit-coach-sid/skills/fit-coach/references/fitness-theory-ontology.md",
+      "git_blob": "d692bbf45adc257022dd6756d81297d956dd65a1",
+      "bytes": 62028,
+      "sha256_blob": "53F3BA54D1019FF56527DBD10A6851BF26A576CB77C69588DCC0FB85577F71A4"
+    },
+    {
+      "path": "fit-coach-sid/skills/fit-coach/references/master-instruction.md",
+      "git_blob": "eb1cd1d8a3f5601510361ae3d0baec4beb32dcf1",
+      "bytes": 44702,
+      "sha256_blob": "A24CAD1E7154C0D42F5BE957948A33BDC492ACAB118B225EFC63E67460EAB13F"
+    }
+  ],
+  "archive_comparison": {
+    "historical_snapshot_commit": "06f7558b327068c414d252528741d0918e141cbc",
+    "historical_tree_scope": "partial tree under fit-coach-sid; excludes repository-root README.md and .gitignore",
+    "historical_content_files_materialized": 3,
+    "historical_sha256_pins": 3,
+    "content_pins_match_current_git_blobs": true,
+    "matched_paths": [
+      "fit-coach-sid/plugin.json",
+      "fit-coach-sid/skills/fit-coach/SKILL.md",
+      "fit-coach-sid/skills/fit-coach/references/master-instruction.md"
+    ],
+    "method": "Git object SHA-256 compared to archived SHA-256 source manifest; matches all 3 pinned files"
+  },
+  "execution": {
+    "product_tests_run": 0,
+    "fitness_model_calls": 0,
+    "pilot_runs": 0,
+    "git_commit_or_push": false
+  }
+}

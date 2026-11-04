@@ -1,0 +1,211 @@
+{
+  "scope": "OFFLINE_DOCUMENT_REVIEW_ONLY",
+  "date": "2026-11-04",
+  "files": [
+    {
+      "path": "calibration-benchmark-v0.1.md",
+      "bytes": 12457,
+      "sha256": "204a69ce5d780a28e477c72e69ad1140fc696ebcff3d11688868114651f0c734"
+    },
+    {
+      "path": "calibration-benchmark-v0.2.md",
+      "bytes": 14960,
+      "sha256": "d9ee46053f5767e1aa48299d09f80bbebdea273fa0aa860fb84358124872cc3a"
+    },
+    {
+      "path": "calibration-benchmark-v0.3.md",
+      "bytes": 24278,
+      "sha256": "83d7afb3551d8a1d61380f39d5c03ae4fb7ce2b9cbc26f4752e023259c893600"
+    },
+    {
+      "path": "calibration-benchmark-v0.4.md",
+      "bytes": 29647,
+      "sha256": "98369c6f284dc6f27601cb80709c91e9512a8a02c925e0b441d702f3528ec92f"
+    },
+    {
+      "path": "claim-evidence-audit-v0.1.md",
+      "bytes": 11193,
+      "sha256": "0e2ef35638cbc91f2af042a93f347e07c231f5644cdef79021b5c21f2f9a54ee"
+    },
+    {
+      "path": "claim-evidence-audit-v0.2.md",
+      "bytes": 13045,
+      "sha256": "38578471898493fe5e5cffec7da3de79a72709bb889ed6f067c0b0c9d2723ddf"
+    },
+    {
+      "path": "domain-review-packet-v0.1.md",
+      "bytes": 7955,
+      "sha256": "dc6e30c84f59f767ab6c3cf9880bd094795b6a455187caea8a59d3f835f5c960"
+    },
+    {
+      "path": "domain-review-packet-v0.2.md",
+      "bytes": 10067,
+      "sha256": "cc9b9aa9d92ad89714e1166ab1df821b84775a5c81bf02c5f8bb27db51764d82"
+    },
+    {
+      "path": "domain-review-packet-v0.3.md",
+      "bytes": 10436,
+      "sha256": "a0d55afdfc47da971ff413111f53a8adf1a31c0c7d0e5d8d97bfa214273cf5dc"
+    },
+    {
+      "path": "evidence-and-community-scan-2026-11-02.md",
+      "bytes": 10884,
+      "sha256": "36fbbd16625fa55e1c174212d5adadfc89a3a61a2b4325178a8d1d8d22c56080"
+    },
+    {
+      "path": "evidence-update-2026-11-02-v0.2.md",
+      "bytes": 4205,
+      "sha256": "478954c31f5bb355205eb6093feaee0f87fd861d391ed41b4f9baf7d3ffe4074"
+    },
+    {
+      "path": "evidence-update-2026-11-02-v0.3.md",
+      "bytes": 4333,
+      "sha256": "7f39abd5a2ccb6983e3697dd9d93d9390644418f8ef81e141593db4368310873"
+    },
+    {
+      "path": "interview-conversation-benchmark-research-v0.1.md",
+      "bytes": 15156,
+      "sha256": "8cbcc6afb2eb0136224259c1d1fabb30a82f6923b5138f9b4f27c01cfd5e995b"
+    },
+    {
+      "path": "output/build-receipt.md",
+      "bytes": 2031,
+      "sha256": "747cc6de7c7de3fcf3535e93c38f4d64935d34fe35c05ce754ac0a696331fc9b"
+    },
+    {
+      "path": "output/fit-coach-sid-preview/IMPORT-AND-READINESS.md",
+      "bytes": 2031,
+      "sha256": "ada8ef2b6ea17564f246c6649351b273be207264ced25dc14a977c047e6477bf"
+    },
+    {
+      "path": "output/fit-coach-sid-preview/plugin.json",
+      "bytes": 1439,
+      "sha256": "366edb7a0715d7629c5e081ebff7a50054b89ebb10539eb46da7062dc2893437"
+    },
+    {
+      "path": "output/fit-coach-sid-preview/skills/fit-coach/references/case-benchmark.md",
+      "bytes": 39790,
+      "sha256": "7734bb1644944e3b12cb47257cf4ad9749c430033c69f531fd5bcec294e1dcbf"
+    },
+    {
+      "path": "output/fit-coach-sid-preview/skills/fit-coach/references/fitness-protocols.md",
+      "bytes": 90252,
+      "sha256": "9f7cac7dec502e34c027ed3ca265f117155a1a4ef9a4790af8e107299c20d7a7"
+    },
+    {
+      "path": "output/fit-coach-sid-preview/skills/fit-coach/references/fitness-theory-ontology.md",
+      "bytes": 62504,
+      "sha256": "7a7e1e55ed4d57ab17e40b599932f3df1da15bce44cac6680511b2696a39dad6"
+    },
+    {
+      "path": "output/fit-coach-sid-preview/skills/fit-coach/references/master-instruction.md",
+      "bytes": 45266,
+      "sha256": "71c552046104df23b213a79a287657d17db1c7457f88ca4ffc699fadaf500c22"
+    },
+    {
+      "path": "output/fit-coach-sid-preview/skills/fit-coach/SKILL.md",
+      "bytes": 4533,
+      "sha256": "df277988e82375b9257c58ea7397850a3f5431ddb5c3d7491c95dae52a0c4269"
+    },
+    {
+      "path": "output/fit-coach-sid-preview-2026-11-02.zip",
+      "bytes": 82351,
+      "sha256": "54290cf24f859cd42f646d0d6e6177adc0655629ce54f1e840471ec0609d52f9"
+    },
+    {
+      "path": "proposal-v0.2.md",
+      "bytes": 17771,
+      "sha256": "dbeeff0d2fc2e44c2ca64e33f81c5d17ad810a30d2e3087e7e02ab6eac3c9b3d"
+    },
+    {
+      "path": "proposal-v0.3.md",
+      "bytes": 20514,
+      "sha256": "51ba137a82c62ec17027af2251c61b1b1d56e93a9ecf8a04d73bdc1640c7b556"
+    },
+    {
+      "path": "proposal-v0.4.md",
+      "bytes": 20531,
+      "sha256": "378aa07a0662b365d49e0553703c235f8f0bb7db37855dd0c50cfaf3a3108339"
+    },
+    {
+      "path": "proposal-v0.5.md",
+      "bytes": 21038,
+      "sha256": "449aa7f700cc065bfa807648c384c196355e2afc73eaae8a2169a1ea215f9c83"
+    },
+    {
+      "path": "proposal-v0.6.md",
+      "bytes": 21335,
+      "sha256": "e94bd72c05704658aa73b703cf35421acc03e1ab408b3472bbf9001e9b2a57f0"
+    },
+    {
+      "path": "proposal-v0.7.md",
+      "bytes": 23731,
+      "sha256": "6ae71aea4bd86a2ffc2fd2b7df82bcc9615c0c8b38ee6404c02565896bea3918"
+    },
+    {
+      "path": "proposal-v0.8.md",
+      "bytes": 25066,
+      "sha256": "e8bdb039880f80639f2084328701ab9ab1ba2122e483c8e01f64f8b203e74ce7"
+    },
+    {
+      "path": "proposal-v0.9.md",
+      "bytes": 25920,
+      "sha256": "771dd6583f974fac0316287503711d782be1afe05fdd684abce6943312579133"
+    },
+    {
+      "path": "proposal-v1.0.md",
+      "bytes": 27047,
+      "sha256": "ba901f24dd20359cea04f93f2969d7c222b189ff203c5cf9d937d1a60506a0a4"
+    },
+    {
+      "path": "proposal.md",
+      "bytes": 14387,
+      "sha256": "b798c3f98b930ca93ab04bbe0a950cadb0cfe5827655e248539700142b66b5a2"
+    },
+    {
+      "path": "review-v0.1.md",
+      "bytes": 3678,
+      "sha256": "a11d250babe4bbb990e0f7914c12079e4e0c88ac47e544b9420ceb84e82b46f0"
+    },
+    {
+      "path": "review-v0.6.md",
+      "bytes": 3939,
+      "sha256": "f85c91dd59a08e2623fd742b8a8b0b3edb29717d1adad2669d6fc0242f757285"
+    },
+    {
+      "path": "review-v0.7.md",
+      "bytes": 1565,
+      "sha256": "ce6530ff6116b0e102c499a5e13a762e0f611c9bf1430da0ec43aceb679948c3"
+    },
+    {
+      "path": "review-v1.0.md",
+      "bytes": 2246,
+      "sha256": "344d70510109bcb07cce46e495a73abfa7cfd7dc0ed05603d0a82f36c023fe93"
+    },
+    {
+      "path": "reviewer-invitation-template-v0.1.md",
+      "bytes": 5925,
+      "sha256": "1859c47316a004c8e933bb15583ce354cf94e2c97c0c6489671e86c6ac2603bb"
+    },
+    {
+      "path": "reviewer-shortlist-v0.1.md",
+      "bytes": 8692,
+      "sha256": "29ea43ee04a6f9f5b13c5a8cf44ef526cf1a80b16e771b6566920490fb6d8ba8"
+    },
+    {
+      "path": "reviewer-shortlist-v0.2.md",
+      "bytes": 11479,
+      "sha256": "714247cca49c17527722387552be83e01c9528c6a617b3a60e3745aa0be00d91"
+    },
+    {
+      "path": "reviewer-shortlist-v0.3.md",
+      "bytes": 13301,
+      "sha256": "f6c140eefc505615be3050d934fa2821adcdadc1b439d1b7b56e263df5c733c8"
+    },
+    {
+      "path": "source-baseline-2026-11-02.json",
+      "bytes": 3998,
+      "sha256": "725425d1dad6207d049d20851ce89fbda6a0557d177edada6508459a130a9477"
+    }
+  ]
+}
